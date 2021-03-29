@@ -1,0 +1,17 @@
+.customLabel{
+	font-size: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+
+	.customInput {
+		width: 300px;
+		height: 30px;
+		margin: 10px;
+		border: none;
+		border-bottom: 1px solid gray;
+		outline: none;
+		font-size: 18px;
+	}
+}
