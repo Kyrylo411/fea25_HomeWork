@@ -1,0 +1,17 @@
+.MainPage{
+	display: flex;
+	flex-direction: column;
+
+	a{
+		max-width: 300px;
+		width: 100%;
+		text-decoration: none;
+		font-size: 28px;
+		color: black;
+		border-bottom: 1px solid gray;
+	}
+
+	a:hover{
+		color: rgb(5, 195, 209);
+	}
+}
